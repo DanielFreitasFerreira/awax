@@ -1,0 +1,6 @@
+/* Responsividade para smartphone
+@media screen and (min-width: 500px) , (max-width: 900px) {
+  .banner h1 {
+    color: red;
+  }
+} */
